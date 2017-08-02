@@ -10,8 +10,8 @@
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
 	"overlay_scroll_bars": "enabled",
 	"shift_tab_unindent": true,
 	"show_line_endings": true,
@@ -20,5 +20,7 @@
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"ui_big_tabs": true,
-	"word_wrap": "false"
+	"ui_fix_tab_labels": true,
+	"ui_font_size_small": true,
+	"word_wrap": false
 }
