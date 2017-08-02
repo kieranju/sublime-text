@@ -13,6 +13,7 @@
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
+		"FileDiffs",
 		"Git",
 		"GitGutter",
 		"Gitignored File Excluder",

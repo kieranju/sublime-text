@@ -1,11 +1,11 @@
 {
 	"always_show_minimap_viewport": true,
 	"caret_extra_bottom": 1,
-	"caret_style": "phase",
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"drag_text": false,
 	"enable_tab_scrolling": false,
-	"font_size": 11,
+	"font_face": "hasklig",
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -19,5 +19,6 @@
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
-	"ui_big_tabs": true
+	"ui_big_tabs": true,
+	"word_wrap": "false"
 }
