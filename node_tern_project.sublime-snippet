@@ -1,9 +1,9 @@
 <snippet>
     <content>
 <![CDATA[{
-    "plugins": {
-      "node": {},
-    },
+  "plugins": {
+    "node": {}
+  }
 }]]>
     </content>
     <tabTrigger>node</tabTrigger>
