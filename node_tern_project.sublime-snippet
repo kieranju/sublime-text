@@ -1,0 +1,13 @@
+<snippet>
+    <content>
+<![CDATA[{
+    "plugins": {
+      "node": {},
+    },
+}]]>
+    </content>
+    <tabTrigger>node</tabTrigger>
+    <scope>source.json.tern</scope>
+    <description>Node.JS Tern Project</description>
+</snippet>
+

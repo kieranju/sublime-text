@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"AdvancedNewFile",
 		"AutoFileName",
 		"ayu",
 		"ColorPicker",
@@ -15,13 +14,15 @@
 		"EditorConfig",
 		"Emmet",
 		"FileDiffs",
+		"FileManager",
 		"Git",
 		"GitGutter",
 		"Gitignored File Excluder",
 		"Markdown Preview",
 		"Package Control",
 		"PackageResourceViewer",
-		"SideBarEnhancements",
-		"SublimeCodeIntel"
+		"ProjectManager",
+		"SublimeCodeIntel",
+		"tern_for_sublime"
 	]
 }

@@ -1,0 +1,14 @@
+<snippet>
+    <content>
+<![CDATA[{
+    "libs": [
+        "browser",
+        // "jquery"
+    ],
+}]]>
+    </content>
+    <tabTrigger>javascript</tabTrigger>
+    <scope>source.json.tern</scope>
+    <description>JS Tern Project</description>
+</snippet>
+

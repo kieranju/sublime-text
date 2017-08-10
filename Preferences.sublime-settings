@@ -1,5 +1,16 @@
 {
 	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 0,
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
