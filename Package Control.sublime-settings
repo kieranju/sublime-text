@@ -23,6 +23,7 @@
 		"PackageResourceViewer",
 		"ProjectManager",
 		"SublimeCodeIntel",
-		"tern_for_sublime"
+		"tern_for_sublime",
+		"TypeScript"
 	]
 }
