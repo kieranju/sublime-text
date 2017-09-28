@@ -13,13 +13,20 @@
 	],
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 0,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro.tmTheme",
 	"drag_text": false,
 	"enable_tab_scrolling": false,
 	"font_face": "hasklig",
 	"font_size": 13,
 	"ignored_packages":
 	[
+		"ActionScript",
+		"FileDiffs",
+		"FileManager",
+		"Git",
+		"GitGutter",
+		"SublimeCodeIntel",
+		"tern_for_sublime",
 		"Vintage"
 	],
 	"line_padding_bottom": 0,
@@ -30,7 +37,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"show_tab_close_buttons": false,
-	"theme": "Boxy Monokai.sublime-theme",
+	"theme": "Monokai Pro.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"word_wrap": false
