@@ -5,11 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AutoFileName",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
 		"ColorPicker",
 		"CSScomb",
 		"DocBlockr",
-		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
 		"FileDiffs",
@@ -17,14 +19,11 @@
 		"Git",
 		"GitGutter",
 		"Markdown Preview",
-		"Monokai Extended",
-		"nginx",
 		"Package Control",
 		"PackageResourceViewer",
 		"ProjectManager",
 		"SublimeCodeIntel",
 		"tern_for_sublime",
-		"Theme - Monokai Pro",
 		"TypeScript"
 	]
 }
