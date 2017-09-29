@@ -5,10 +5,7 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"AutoFileName",
-		"Boxy Theme",
-		"Boxy Theme Addon - Font Face",
 		"ColorPicker",
 		"CSScomb",
 		"DocBlockr",
@@ -24,6 +21,7 @@
 		"ProjectManager",
 		"SublimeCodeIntel",
 		"tern_for_sublime",
+		"Theme - Monokai Pro",
 		"TypeScript"
 	]
 }
