@@ -1,0 +1,4 @@
+{
+    "cmd": ["npm", "start"],
+    "working_dir": "${folder}"
+}
