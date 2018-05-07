@@ -3,8 +3,9 @@
 *.tmPreferences.cache
 *.stTheme.cache
 
-# workspace files are user-specific
+# user-specific
 *.sublime-workspace
+Projects
 
 # sftp configuration file
 sftp-config.json
